@@ -2,7 +2,7 @@
 id: trj657zpqnxx6mvu19y41ji
 title: Leavers
 desc: ''
-updated: 1660231098587
+updated: 1660663625853
 created: 1660230431306
 ---
 
@@ -28,3 +28,5 @@ created: 1660230431306
    2. Set allowlogin to false
    3. Set iscurrentemployee to false
    4. Set enddate to employees leave date
+
+With @cs currently
