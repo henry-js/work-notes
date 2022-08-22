@@ -1,9 +1,11 @@
 ---
-id: 7rbf4hzkbndcehwqlacow4q
-title: Meeting Notes Template
+id: c1oky7867qx5ixpioyh9ap9
+title: '24'
 desc: ''
-updated: 1661165162562
-created: 1660638374955
+updated: 1661176248574
+created: 1661165172651
+traitIds:
+  - meetingNote
 ---
 
 ## Attendees
@@ -12,10 +14,15 @@ created: 1660638374955
 - @ChrisSheldon
 
 ## Goals
-<!-- Main objectives of the meeting -->
+
+Weekly IT Update
 
 ## Agenda
-<!-- Agenda to be covered in the meeting -->
+
+- [ ] Timeline for replacing the docks that don't support usb-c charging
+- [ ] What to do about insecure not receiving security updates?
+- [ ] Need monitors & arms for the SFF PCs
+- [ ]
 
 ## Minutes
 <!-- Notes of discussion occurring during the meeting -->
