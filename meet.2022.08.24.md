@@ -2,7 +2,7 @@
 id: c1oky7867qx5ixpioyh9ap9
 title: '24'
 desc: ''
-updated: 1661176248574
+updated: 1661334529132
 created: 1661165172651
 traitIds:
   - meetingNote
@@ -20,7 +20,8 @@ Weekly IT Update
 ## Agenda
 
 - [ ] Timeline for replacing the docks that don't support usb-c charging
-- [ ] What to do about insecure not receiving security updates?
+- [ ] What to do about insecure phones not receiving security updates?
+    iPhone guarantee 5 years of security updates. Samsung & Google 4 years. Motorola 2 years
 - [ ] Need monitors & arms for the SFF PCs
 - [ ]
 
